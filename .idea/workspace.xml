@@ -5,12 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2633dc3c-f205-4fc1-926e-b75c83708edb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Jan06/FunctionalInterface/Mobile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Jan06/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/LambdaDemo/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/LambdaDemo/Calculate/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/LambdaDemo/Calculate/MainCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/LambdaDemo/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/LambdaDemo/TestAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Shape/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Shape/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Shape/Shape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Student/StudentMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Student/StudentMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Jan06/FunctionalInterface/Mobile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SaturdayJan06/FunctionalInterface/Mobile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Jan06/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SaturdayJan06/Readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +26,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -49,7 +56,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MainCalc">
+    <configuration name="MainCalc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TuesdayJan09.LambdaDemo.Calculate.MainCalc" />
+      <module name="AdvanceJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TuesdayJan09.LambdaDemo.Calculate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StudentMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Student.StudentMain" />
       <module name="AdvanceJava" />
@@ -65,6 +85,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainCalc" />
         <item itemvalue="Application.StudentMain" />
       </list>
     </recent_temporary>

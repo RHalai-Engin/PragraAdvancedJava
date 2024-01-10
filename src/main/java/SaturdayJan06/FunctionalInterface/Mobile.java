@@ -1,4 +1,4 @@
-package Jan06.FunctionalInterface;
+package SaturdayJan06.FunctionalInterface;
 
 @FunctionalInterface
 public interface Mobile {
