@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2633dc3c-f205-4fc1-926e-b75c83708edb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/LambdaDemo/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/LambdaDemo/Calculate/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/LambdaDemo/Calculate/MainCalc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/LambdaDemo/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/LambdaDemo/TestAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Shape/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Shape/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Shape/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/FunctionalIntfDemo/FunctionalInterfDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Jan06/FunctionalInterface/Mobile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SaturdayJan06/FunctionalInterface/Mobile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Jan06/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SaturdayJan06/Readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
