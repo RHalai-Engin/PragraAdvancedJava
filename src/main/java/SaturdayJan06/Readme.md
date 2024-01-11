@@ -29,3 +29,11 @@ Java 8 Features
 5. optional classes - to handle null pointer exceptions - (Top most question)
 6. foreach()
 7. method references
+
+
+LAMBDA 
+SYNTAX OF LAMBDA --
+( )      ->       {  }
+lambda   Arrow   Lambda body
+input 
+parameters

@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2633dc3c-f205-4fc1-926e-b75c83708edb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/FunctionalIntfDemo/FunctionalInterfDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SaturdayJan06/FunctionalInterface/AnonymousDemo/MainCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SaturdayJan06/FunctionalInterface/AnonymousDemo/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SaturdayJan06/FunctionalInterface/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SaturdayJan06/FunctionalInterface/Wish/EnglishGreeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SaturdayJan06/FunctionalInterface/Wish/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SaturdayJan06/FunctionalInterface/Wish/HindiGreeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SaturdayJan06/FunctionalInterface/Wish/WellWisher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SaturdayJan06/FunctionalInterface/Mobile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SaturdayJan06/FunctionalInterface/Mobile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SaturdayJan06/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SaturdayJan06/Readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,24 +44,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
-}</component>
-  <component name="RunManager" selected="Application.MainCalc">
+}]]></component>
+  <component name="RunManager" selected="Application.MainCar">
     <configuration name="MainCalc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TuesdayJan09.LambdaDemo.Calculate.MainCalc" />
       <module name="AdvanceJava" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="TuesdayJan09.LambdaDemo.Calculate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainCar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SaturdayJan06.FunctionalInterface.AnonymousDemo.MainCar" />
+      <module name="AdvanceJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SaturdayJan06.FunctionalInterface.AnonymousDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,8 +96,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WellWisher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SaturdayJan06.FunctionalInterface.Wish.WellWisher" />
+      <module name="AdvanceJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SaturdayJan06.FunctionalInterface.Wish.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainCar" />
+        <item itemvalue="Application.WellWisher" />
         <item itemvalue="Application.MainCalc" />
         <item itemvalue="Application.StudentMain" />
       </list>
