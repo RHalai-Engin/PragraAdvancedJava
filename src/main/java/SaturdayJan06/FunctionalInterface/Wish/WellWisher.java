@@ -41,3 +41,6 @@ public class WellWisher {
 //1. Implement an interface with class
 //2. Anonymous class
 //3. Lambda
+
+//Create functional interface - Bank ---> saving()
+//Create lambda for it
