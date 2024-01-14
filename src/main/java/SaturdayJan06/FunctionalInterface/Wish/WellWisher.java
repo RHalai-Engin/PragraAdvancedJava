@@ -10,7 +10,7 @@ public class WellWisher {
 
         greetMe(englishGreeting);
         greetMe(hindiGreeting);
-
+        //over here we are passing a function inside a function
         greetMe(() -> System.out.println("Ola!"));
 
         //Anonymous Class - Class which does not have a name
