@@ -5,23 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2633dc3c-f205-4fc1-926e-b75c83708edb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Exercise/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Exercise/Greeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Exercise/MainExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Exercise/Mobile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Exercise/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Shape/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Shape/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Exercise/StringManipulator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SaturdayJan13/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SaturdayJan13/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TuesdayJan09/LambdaDemo/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/LambdaDemo/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TuesdayJan09/LambdaDemo/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/LambdaDemo/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TuesdayJan09/LambdaDemo/TestAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/LambdaDemo/TestAnimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Shape/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Shape/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Shape/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Shape/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Shape/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Shape/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Shape/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Shape/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Exercise/MainExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Exercise/MainExercise.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
