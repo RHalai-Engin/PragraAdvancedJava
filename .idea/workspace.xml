@@ -5,10 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2633dc3c-f205-4fc1-926e-b75c83708edb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/SaturdayJan06/Exercise/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SaturdayJan06/Exercise/BankMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Exercise/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Exercise/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Exercise/MainExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Exercise/Mobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Exercise/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Shape/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Shape/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SaturdayJan06/FunctionalInterface/Wish/WellWisher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SaturdayJan06/FunctionalInterface/Wish/WellWisher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SaturdayJan13/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SaturdayJan13/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TuesdayJan09/LambdaDemo/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/LambdaDemo/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TuesdayJan09/LambdaDemo/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/LambdaDemo/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TuesdayJan09/LambdaDemo/TestAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/LambdaDemo/TestAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Shape/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Shape/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Shape/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Shape/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Shape/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Shape/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Shape/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Shape/Shape.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +31,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -54,7 +67,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BankMain">
+  <component name="RunManager" selected="Application.MainExercise">
     <configuration name="BankMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SaturdayJan06.Exercise.BankMain" />
       <module name="AdvanceJava" />
@@ -68,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SaturdayJan13.Exercise.Exercise01" />
+    <configuration name="FunctionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SaturdayJan13.FunctionDemo.FunctionDemo" />
       <module name="AdvanceJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SaturdayJan13.Exercise.*" />
+          <option name="PATTERN" value="SaturdayJan13.FunctionDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SaturdayJan13.FunctionDemo.FunctionDemo" />
+    <configuration name="MainExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TuesdayJan09.Exercise.MainExercise" />
       <module name="AdvanceJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SaturdayJan13.FunctionDemo.*" />
+          <option name="PATTERN" value="TuesdayJan09.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainExercise" />
         <item itemvalue="Application.BankMain" />
         <item itemvalue="Application.StudentMain" />
         <item itemvalue="Application.StreamsDemo" />
         <item itemvalue="Application.FunctionDemo" />
-        <item itemvalue="Application.Exercise01" />
       </list>
     </recent_temporary>
   </component>

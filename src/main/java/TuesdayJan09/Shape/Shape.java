@@ -3,5 +3,7 @@ package TuesdayJan09.Shape;
 //@FunctionalInterface
 public interface Shape {
     double area();
-    double perimeter();
+    default double perimeter(){
+        return 0.0;
+    }
 }
