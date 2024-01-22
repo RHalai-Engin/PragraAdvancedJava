@@ -1,4 +1,4 @@
-package SaturdayJan13.Exercise.StudentExer;
+package SaturdayJan13.Exercise;
 
 import java.util.function.Consumer;
 import java.util.function.Function;

@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2633dc3c-f205-4fc1-926e-b75c83708edb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/SaturdayJan13/ConsumerDemo/consumerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SaturdayJan13/Exercise/StudentExer/Exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SaturdayJan13/PredicateDemo/PredicateDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SaturdayJan13/SupplierDemo/SupplierDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SaturdayJan13/Exercise/Exercise01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SaturdayJan13/FunctionDemo/FunctionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SaturdayJan13/FunctionDemo/FunctionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SaturdayJan13/Exercise/StudentExer/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SaturdayJan13/Exercise/Exercise1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/SaturdayJan13/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SaturdayJan13/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Exercise/MainExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Exercise/MainExercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TuesdayJan09/FunctionalIntfDemo/FunctionalInterfDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/FunctionalIntfDemo/FunctionalInterfDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TuesdayJan09/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SaturdayJan13/Streams/StreamsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SaturdayJan13/Streams/StreamsDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +54,12 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Exercise1">
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="SaturdayJan13.Exercise" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StreamsDemo">
     <configuration name="Exercise01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SaturdayJan13.Exercise.Exercise01" />
       <module name="AdvanceJava" />
@@ -76,11 +74,11 @@
       </method>
     </configuration>
     <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SaturdayJan13.Exercise.StudentExer.Exercise1" />
+      <option name="MAIN_CLASS_NAME" value="SaturdayJan13.Exercise.Exercise1" />
       <module name="AdvanceJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SaturdayJan13.Exercise.StudentExer.*" />
+          <option name="PATTERN" value="SaturdayJan13.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TuesdayJan09.Exercise.MainExercise" />
+    <configuration name="StreamsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SaturdayJan13.Streams.StreamsDemo" />
       <module name="AdvanceJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TuesdayJan09.Exercise.*" />
+          <option name="PATTERN" value="SaturdayJan13.Streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamsDemo" />
         <item itemvalue="Application.Exercise1" />
         <item itemvalue="Application.SupplierDemo" />
         <item itemvalue="Application.Exercise01" />
         <item itemvalue="Application.FunctionalInterfDemo" />
-        <item itemvalue="Application.MainExercise" />
       </list>
     </recent_temporary>
   </component>
