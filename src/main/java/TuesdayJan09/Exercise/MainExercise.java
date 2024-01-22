@@ -21,13 +21,19 @@ public class MainExercise {
         //we will take user input and create lambda
         Scanner scanner = new Scanner(System.in);
         System.out.print("Please enter a message: ");
-        String nextString = scanner.next();
+        String nextString = scanner.nextLine();
         //Lambda for Welcome interface
         StringManipulator lowercase = (s) -> nextString.toLowerCase();
         System.out.println(lowercase.apply(nextString));
 
         StringManipulator uppercase = (s1) -> nextString.toUpperCase();
         System.out.println(uppercase.apply(nextString));
+
+        StringManipulator trim = (s1) -> nextString.trim();
+        System.out.println(trim.apply(nextString));
+
+        StringManipulator replaceB = (s1) -> nextString.replace('B', 'T');
+        System.out.println(replaceB.apply(nextString));
 
     }
 }

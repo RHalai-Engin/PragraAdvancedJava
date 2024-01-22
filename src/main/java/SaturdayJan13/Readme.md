@@ -8,7 +8,7 @@
 2. Consumer - accepts one argument and returns void (nothing)
 3. BiConsumer - accepts two arguments and returns void (nothing)
 4. Supplier - accepts nothing but returns a value 
-5. Function - 
+5. Function - accepts of 1 type, returns of another type, BiFunction
 
 ##
 
