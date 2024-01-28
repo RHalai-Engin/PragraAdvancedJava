@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2633dc3c-f205-4fc1-926e-b75c83708edb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/SaturdayJan21/HasCodeDemo/HashCodeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SaturdayJan21/HashMap/HashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SaturdayJan21/OptionalClass/OptionalClassDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SaturdayJan21/OptionalClass/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SaturdayJan21/Readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SaturdayJan13/Exercise/StudentExer/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SaturdayJan13/Exercise/Exercise1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SaturdayJan13/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SaturdayJan13/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SaturdayJan13/Streams/StreamsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SaturdayJan13/Streams/StreamsDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,37 +44,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Java_October",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="SaturdayJan13.Exercise" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StreamsDemo">
-    <configuration name="Exercise01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SaturdayJan13.Exercise.Exercise01" />
-      <module name="AdvanceJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SaturdayJan13.Exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.HashCodeDemo">
     <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SaturdayJan13.Exercise.Exercise1" />
       <module name="AdvanceJava" />
@@ -86,12 +76,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionalInterfDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TuesdayJan09.FunctionalIntfDemo.FunctionalInterfDemo" />
+    <configuration name="HashCodeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SaturdayJan21.HasCodeDemo.HashCodeDemo" />
       <module name="AdvanceJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TuesdayJan09.FunctionalIntfDemo.*" />
+          <option name="PATTERN" value="SaturdayJan21.HasCodeDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SaturdayJan21.HashMap.HashMapDemo" />
+      <module name="AdvanceJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SaturdayJan21.HashMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OptionalClassDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SaturdayJan21.OptionalClass.OptionalClassDemo" />
+      <module name="AdvanceJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SaturdayJan21.OptionalClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,26 +128,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SupplierDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SaturdayJan13.SupplierDemo.SupplierDemo" />
-      <module name="AdvanceJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SaturdayJan13.SupplierDemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashCodeDemo" />
+        <item itemvalue="Application.HashMapDemo" />
+        <item itemvalue="Application.OptionalClassDemo" />
         <item itemvalue="Application.StreamsDemo" />
         <item itemvalue="Application.Exercise1" />
-        <item itemvalue="Application.SupplierDemo" />
-        <item itemvalue="Application.Exercise01" />
-        <item itemvalue="Application.FunctionalInterfDemo" />
       </list>
     </recent_temporary>
   </component>
